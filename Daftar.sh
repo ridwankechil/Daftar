@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#creator Ridwan Kechil
+clear
 echo "Selamat Datang Di Script Pendaftaran"
 
 echo "tunggu 3 detik"
@@ -72,7 +73,7 @@ termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 
 echo $me " bagi bagi di mulai saat 270 subscriber"
 
-sleep 3
+sleep 15
 
 echo $ku "Login Berhasil"
 
@@ -83,7 +84,7 @@ sleep 9
 echo $bi " Terimakasih sudah mergabung di group kami"
 
 echo $ku " <==========|==========>> "
-
-$pu
+echo "jika belum bergabung ulang sc nya jangan di skip"
+echo $pu "Jangan Lupa bergabung Link ada di atas"
 fi
 #Selesai
