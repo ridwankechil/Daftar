@@ -85,4 +85,5 @@ echo $bi " Terimakasih sudah mergabung di group kami"
 echo $ku " <==========|==========>> "
 
 $pu
-
+fi
+#Selesai
