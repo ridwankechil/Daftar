@@ -77,7 +77,7 @@ sleep 15
 
 echo $ku "Login Berhasil"
 
-termux-open https://chat.whatsapp.com/GsWHJrWQRi8IF1KOK8sZNZ
+termux-open https://chat.whatsapp.com/JDmdeZn95WeBXXNwyLU9yF
 
 sleep 9
 
@@ -85,6 +85,6 @@ echo $bi " Terimakasih sudah mergabung di group kami"
 
 echo $ku " <==========|==========>> "
 echo "jika belum bergabung ulang sc nya jangan di skip"
-echo $pu "Jangan Lupa bergabung Link ada di atas"
+echo $pu "Selamat bergabung " $nick
 fi
 #Selesai
